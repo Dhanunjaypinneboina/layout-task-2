@@ -1,0 +1,60 @@
+.container{
+    border-width: 2px;
+    border-style: solid;
+   
+    width: 700px;
+
+}
+.a-box{
+    border-width: 2px;
+    border-style: solid;
+    height: 100px;
+    width: 150px;
+    display: inline-block;
+    margin: 10px;
+}
+.box-a{
+    width: 300px;
+}
+
+.b-box{
+    border-width: 2px;
+    border-style: solid;
+    height: 100px;
+    display: inline-block;
+    margin: 10px;
+
+}
+
+.box-b-1{
+    width: 250px;
+}
+.box-b-2{
+    width: 370px;
+}
+
+.box-c-1{
+    width: 370px;
+}
+.box-c-2{
+    width: 250px;
+}
+
+.d-box{
+    border-width: 2px;
+    border-style: solid;
+    height: 100px;
+    margin: 10px;
+}
+
+.d-box-inn{
+    border-width: 2px;
+    border-style: solid;
+    height: 80px;
+    margin-right: 250px;
+    margin-left: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+
+}
